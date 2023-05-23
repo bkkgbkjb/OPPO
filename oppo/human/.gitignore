@@ -1,0 +1,9 @@
+venv
+__pycache__
+runs*
+.vscode
+gym/data/*.pkl
+*.log
+ray
+model_weight*
+!gym/data/*.pkl
