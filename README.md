@@ -12,7 +12,14 @@ It contains 2 parts:
 
 # Citation
 ```
-
+@misc{kang2023reward,
+      title={Beyond Reward: Offline Preference-guided Policy Optimization}, 
+      author={Yachen Kang and Diyuan Shi and Jinxin Liu and Li He and Donglin Wang},
+      year={2023},
+      eprint={2305.16217},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 # Acknowledgements
