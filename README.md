@@ -2,6 +2,14 @@
 
 This is source code for the paper, ["Beyond Reward: Offline Preference-guided Policy Optimization"](https://openreview.net/forum?id=0BgDXE6vJJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2023%2FConference%2FAuthors%23your-submissions)) (`OPPO`)
 
+
+## Important Notes:
+This repo is deleted and recreated on *Sep. 9, 2024* to remove the large-size data files which keeps charging us for 5$/month.  
+The new repo points to `bf2efeabacf0ad6da9512836a25ed20ae1cfe2cc` as of old repo and there are no differences in scripts and methods.
+
+If you have used the old version, you could either stick to it or use this new one.  
+If it's the first time for you to use this repo, you need to manually download the dataset needed following procedures as of `Decision Transformer`, `Preference Transformer` and `Robomimic`.
+
 Main codes are in `oppo` folder
 It contains 2 parts: 
 
